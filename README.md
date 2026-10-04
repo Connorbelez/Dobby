@@ -36,3 +36,7 @@ Dobby a lightweight, multi-platform, multi-architecture exploit hook framework.
 4. [v8](https://github.com/v8/v8)
 5. [dart](https://github.com/dart-lang/sdk)
 6. [vixl](https://git.linaro.org/arm/vixl.git)
+
+## Maintenance backlog
+
+The [GitHub Project](https://github.com/users/Connorbelez/projects/18) tracks the roadmap issues and release qualification. See [maintenance](MAINTAINERS.md) for ownership and review expectations.
