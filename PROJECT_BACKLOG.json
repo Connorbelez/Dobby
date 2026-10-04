@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Review Linux ARM64 fixes for upstream submission",
+    "body": "Acceptance: provide reproducible verification and record exact source/dependency revisions. See ROADMAP.md for scope."
+  },
+  {
+    "title": "Exercise 4 KiB and 16 KiB page configurations",
+    "body": "Acceptance: provide reproducible verification and record exact source/dependency revisions. See ROADMAP.md for scope."
+  },
+  {
+    "title": "Check Android and Apple builds for regressions",
+    "body": "Acceptance: provide reproducible verification and record exact source/dependency revisions. See ROADMAP.md for scope."
+  }
+]
